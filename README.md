@@ -4,7 +4,7 @@
 Este proyecto consiste en un CV personal responsivo y profesional, desarrollado para demostrar habilidades en Front-end (HTML, CSS, JS) y el uso de frameworks como Bootstrap y librerías como jQuery.
 
 ## 🚀 Demo en Vivo
-Puedes ver el proyecto desplegado aquí: **https://rubenpalma1108.github.io/ejemplo-cv/**
+Puedes ver el proyecto desplegado aquí: **https://rubenbootcamp.github.io/ejemplo-cv/**
 
 ## ✨ Características Principales
 * **Diseño Responsivo:** Construido con Bootstrap para una visualización óptima en móviles y escritorio.
